@@ -53,9 +53,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taha-samani&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=taha-samani-dev&show_icons=true&theme=dark" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=taha-samani&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=taha-samani-dev&theme=dark" />
 </p>
 
 ---
