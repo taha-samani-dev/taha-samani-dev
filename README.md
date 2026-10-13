@@ -27,7 +27,7 @@
 
 ---
 
-## 📦 Full Tech Stack (English)
+## 📦 Full Tech Stack
 
 <table align="center">
   <thead>
