@@ -56,13 +56,6 @@ I'm a Full-Stack Developer focused on building modern web applications with main
   [Frontend Repository](https://github.com/taha-samani-dev) · [Backend Repository](https://github.com/taha-samani-dev)
 </details>
 
-### GitHub
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=taha-samani-dev&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taha-samani-dev&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
-</div>
-
 ---
 
 <div align="center">
