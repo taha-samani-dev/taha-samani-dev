@@ -42,7 +42,7 @@ I'm a Full-Stack Developer focused on building modern web applications with main
 
 ### Featured Project
 
-<details open>
+<details>
   <summary><strong>Tarkhineh — Food Ordering Platform</strong></summary>
 
   A full-stack food ordering application built to practice real-world application architecture and backend engineering.
